@@ -225,7 +225,7 @@ All settings are read from environment variables:
 **Example `.env`**
 
 ```env
-GOOGLE_SHEET_ID=1AbCdEfGhIjKlMnOpQrStUvWxYz1234567890
+GOOGLE_SHEET_ID=1AbCdEfGhIjKlMnOpQrStUvWxXXXXXXXXXX
 GOOGLE_CREDS_JSON={"type":"service_account","project_id":"...","private_key":"..."}
 CRON_TIME=0 0 * * *
 TZ=UTC
